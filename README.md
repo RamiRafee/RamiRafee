@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ⚠️ Who am I?<br><br>I'm not your average dev.<br><br>🧠 AI Engineer – I teach machines to think.  <br>🌐 Fullstack Web Developer – I build from database to UI, and everything in between.  <br>🪖 Currently in the Army – Yes, I code and carry.<br><br>> By day: solving real-world problems with AI & code.  <br>> By night: dodging bugs, deadlines, and maybe bullets.<br><br>💻 I write code that works.  <br>⚔️ I live in two worlds – tech and tactics.<br><br>**Let's just say my `git push` is stronger than most.**
+## ⚠️ Who am I?<br><br>I'm not your average dev.<br><br>🧠 AI Engineer – I teach machines to think.  <br>🌐 Fullstack Web Developer – I build from database to UI, and everything in between.  <br><br>> By day: solving real-world problems with AI & code.  <br>> By night: dodging bugs, deadlines, and maybe bullets.<br><br>💻 I write code that works.  <br>⚔️ I live in two worlds – tech and tactics.<br><br>**Let's just say my `git push` is stronger than most.**
 
 
 ## 🌐 Socials:
